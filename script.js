@@ -78,6 +78,7 @@ equalsButton.forEach(button =>{
         compute()
         currentOperand = computation
         updateDisplay()
+        previousOperand =''
     })
 })
 
